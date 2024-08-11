@@ -84,3 +84,4 @@ public class StaticTestMethod {
         del = f.delete();
     }
 }
+te
